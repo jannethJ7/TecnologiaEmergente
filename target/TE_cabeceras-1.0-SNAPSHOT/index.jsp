@@ -14,6 +14,7 @@
         <li><a href="RespXML">Devolver un XML</a></li>
         <li><a href="RespJSON">Devolver un JSON</a></li>
         <li><a href="RespCSV">Devolver un CSV</a></li>
+        <li><a href="servicios.jsp">Servicios</a></li>
     </u1>
     </body>
 </html>
